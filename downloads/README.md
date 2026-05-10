@@ -26,6 +26,7 @@
 - [s40798-023-00563-1](./s40798-023-00563-1)
 - [sdk-10.0](./sdk-10.0)
 - [tVJaS-ZuqEs](./tVJaS-ZuqEs)
+- [tele-mirror-win-x64](./tele-mirror-win-x64)
 - [the-freelancer-s-bible_everything_you__need__to-know-to__have__the__career_of-your__dreams-on-your-terms](./the-freelancer-s-bible_everything_you__need__to-know-to__have__the__career_of-your__dreams-on-your-terms)
 - [view](./view)
 
