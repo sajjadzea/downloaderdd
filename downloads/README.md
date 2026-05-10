@@ -2,6 +2,7 @@
 
 - [39451Modeling](./39451Modeling)
 - [9682173](./9682173)
+- [NegMAS-A-Platform-for-Situated-Negotiations](./NegMAS-A-Platform-for-Situated-Negotiations)
 - [archive_20260509_121635](./archive_20260509_121635)
 - [archive_20260509_195802](./archive_20260509_195802)
 - [archive_20260510_043648](./archive_20260510_043648)
