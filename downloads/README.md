@@ -9,6 +9,7 @@
 - [2505.06262](./2505.06262)
 - [39451Modeling](./39451Modeling)
 - [9682173](./9682173)
+- [CS224R_Final_Report____Akaash_Kolluri___Sally_Zhu-2](./CS224R_Final_Report____Akaash_Kolluri___Sally_Zhu-2)
 - [NegMAS-A-Platform-for-Situated-Negotiations](./NegMAS-A-Platform-for-Situated-Negotiations)
 - [archive_20260509_121635](./archive_20260509_121635)
 - [archive_20260509_195802](./archive_20260509_195802)
