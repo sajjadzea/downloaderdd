@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [16481-acer-nitrosense-software&sa=U&ved=2ahUKEwjB-faTw7CUAxUhUaQEHS_tBF4QFnoECAcQAg&usg=AOvVaw3Sq84v49mI-ZERSCeM6QP3](./16481-acer-nitrosense-software%26sa%3DU%26ved%3D2ahUKEwjB-faTw7CUAxUhUaQEHS_tBF4QFnoECAcQAg%26usg%3DAOvVaw3Sq84v49mI-ZERSCeM6QP3)
 - [2112.00627](./2112.00627)
 - [2202.10243](./2202.10243)
 - [2207.04407](./2207.04407)
